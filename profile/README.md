@@ -2,14 +2,14 @@
 
 ## Team Member
 
-| No  | ID Student   | Name Student                                                   | Path               |
-| :-: | :----------- | :------------------------------------------------------------- | :----------------- |
-|  1  | A296B4KX0942 | [Cinta Ramayanti](https://github.com/cintarmynti)              | Mobile Development |
-|  2  | C296B4KY3146 | [Mukhamad Aziz Firmansyah](https://github.com/mazizf13)        | Cloud Computing    |
-|  3  | C296B4KY4051 | [Samda Zain Rozaan](https://github.com/samdazain)              | Cloud Computing    |
-|  4  | M296B4KY4250 | [Syahrial Rizky](https://github.com/SyahrialZky)               | Machine Learning   |
-|  5  | M296B4KY1657 | [Habib Nurrohmad Sugiharto](https://github.com/habibNurrohmad) | Machine Learning   |
-|  6  | M296B4KY0478 | [Ananda Putra Wahyu Riyanto](https://github.com/Ndaputtra)     | Machine Learning   |
+| No  | ID Student   | Name Student                                                   | Path               | Status             |
+| :-: | :----------- | :------------------------------------------------------------- | :----------------- | :----------------- |
+|  1  | A296B4KX0942 | [Cinta Ramayanti](https://github.com/cintarmynti)              | Mobile Development | Active             |
+|  2  | C296B4KY3146 | [Mukhamad Aziz Firmansyah](https://github.com/mazizf13)        | Cloud Computing    | Active             |
+|  3  | C296B4KY4051 | [Samda Zain Rozaan](https://github.com/samdazain)              | Cloud Computing    | Active             |
+|  4  | M296B4KY4250 | [Syahrial Rizky](https://github.com/SyahrialZky)               | Machine Learning   | Active             |
+|  5  | M296B4KY1657 | [Habib Nurrohmad Sugiharto](https://github.com/habibNurrohmad) | Machine Learning   | Active             |
+|  6  | M296B4KY0478 | [Ananda Putra Wahyu Riyanto](https://github.com/Ndaputtra)     | Machine Learning   | Active             |
 
 ## Table of Contents
 
