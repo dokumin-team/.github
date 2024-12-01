@@ -76,8 +76,9 @@
 
 ### Machine Learning:
 
--   Tensorflow
--   Keras
+- Object Detection with tensorflow
+- Object Classification with tensorflow
+- Image processing with tensorflow and text recognition
 
 ---
 
