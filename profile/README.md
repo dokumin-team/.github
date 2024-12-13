@@ -30,7 +30,7 @@
 
 ## Introduction
 
-**Dokumin** is a document management application designed to make organizing your documents effortless. With OCR (Optical Character Recognition) technology powered by Tesseract, Dokumin allows users to scan physical documents into text, categorize them using Machine Learning, and store them securely in designated folders. Users can also upload, rename, and manage their documents and folders manually.
+**Dokumin** is a document management application designed to simplify and streamline the organization of your documents. Dokumin converts physical documents into searchable digital text. Additionally, it leverages a Machine Learning model, built on a Convolutional Neural Network (CNN), to automatically identify and classify documents into categories such as ID Cards, Family Cards, and Driving Licenses, ensuring efficient and accurate document organization
 
 ---
 
