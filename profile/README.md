@@ -5,7 +5,7 @@
 <p align="center">
    Download Here!
    <br>
-   <a href="#" download>
+   <a href="https://drive.google.com/file/d/1G-HJILprPYllUxksOYM4xuwG6puZJGXy/view?usp=drive_link" download>
       <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
    </a>
 </p>
@@ -21,9 +21,10 @@
 5. [Repository](#repository)
 6. [Cloud Architecture](#cloud-architecture)
 7. [Machine Learning Architecture](#machine-learning-architecture)
-8. [Usage](#usage)
-9. [Contributing](#contributing)
-10. [License](#license)
+8. [API Documentation](#api-documentation)
+9. [Usage](#usage)
+10. [Contributing](#contributing)
+11. [License](#license)
 
 ---
 
@@ -123,6 +124,11 @@ Here are the repositories associated with our project:
 
 ## Machine Learning Architecture
 ![ml-architecture](https://github.com/user-attachments/assets/0d7ef974-4feb-4e06-b3c4-4be4d014a711)
+
+---
+
+## API Documentation
+This is our [Api-documentation](https://documenter.getpostman.com/view/37337961/2sAYHxnPG3)
 
 ---
 ## Usage
